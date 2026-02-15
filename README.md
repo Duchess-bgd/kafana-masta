@@ -247,6 +247,3 @@ If you'd like to import this content into your own WordPress installation:
   <br>
   <i>Available for WordPress development, content management, and website maintenance</i>
 </p>
-
-
-

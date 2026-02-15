@@ -248,15 +248,5 @@ If you'd like to import this content into your own WordPress installation:
   <i>Available for WordPress development, content management, and website maintenance</i>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡%20Built%20with%20❤️%20by-%20Your%20Name-red?style=flat" alt="Built with love">
-  <img src="https://img.shields.io/badge/📅%20Last%20Updated-2026-brightgreen" alt="Last Updated">
-</p>
 
----
-
-<p align="center">
-  <sub>© 2026 • This repository contains exported content for portfolio purposes only.<br>
-  All content belongs to Kafana Mašta and is used with permission.</sub>
-</p>
 

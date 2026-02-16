@@ -211,6 +211,18 @@ This repository contains a **complete WordPress eXtended RSS (WXR) export file**
   <img src="https://img.shields.io/badge/Export%20Size-1MB-lightgrey" alt="Export Size">
 </p>
 
+
+## 📸 Screenshots
+
+| Preview | Page | Description |
+|:-------:|:----:|-------------|
+| <img src="screenshots/01-homepage.jpg" width="150"> | **Homepage** | Clean, welcoming design with hero slider and key information |
+| <img src="screenshots/02-menu-grilled.jpg" width="150"> | **Main Menu** | Comprehensive restaurant menu with categories and pricing |
+| <img src="screenshots/03-drinks-menu.jpg" width="150"> | **Drinks Menu** | Well-organized beverage selection with wines, spirits and cocktails |
+| <img src="screenshots/04-gallery.jpg" width="150"> | **Gallery** | Visual showcase of food and restaurant ambiance |
+| <img src="screenshots/05-contact.jpg" width="150"> | **Contact Page** | Google Maps integration and functional contact form |
+| <img src="screenshots/06-mobile.jpg" width="75"> | **Mobile View** | Fully responsive design for all devices |
+
 ---
 
 ## 📥 Installation / Import

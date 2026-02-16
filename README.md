@@ -214,13 +214,13 @@ This repository contains a **complete WordPress eXtended RSS (WXR) export file**
 
 ## 📸 Screenshots
 
-|                                      Preview                                      |        Page        |
-|:---------------------------------------------------------------------------------:|:------------------:|
-|           <img src="screenshots/ГЛАВНА - Kafana Mašta.png" width="150">           |    **Homepage**    |
-|          <img src="screenshots/ГАЛЕРИЈА - Kafana Mašta.png" width="150">          |  **Main Picture**  |
-|          <img src="screenshots/ГЛАВНА2 - Kafana Mašta.png" width="150">           | **Breakfast Menu** |
-|          <img src="screenshots/ГЛАВНА3 - Kafana Mašta.png" width="150">           |  **Mobile View**   |
-|         <img src="screenshots/КАРТА ПИЋА - Kafana Mašta.png" width="150">         |  **Drinks Menu**   |
+|                      Preview                      |        Page        |
+|:-------------------------------------------------:|:------------------:|
+|   <img src="screenshots/main.png" width="150">    |    **Homepage**    |
+| <img src="screenshots/breakfast.png" width="150"> | **Breakfast Menu** |
+|  <img src="screenshots/gallery.png" width="150">  |    **Gallery**     |
+|  <img src="screenshots/drinks.png" width="150">   |     **Drinks**     |
+|  <img src="screenshots/mobile.png" width="150">   |  **Mobile View**   |
 
 ---
 
